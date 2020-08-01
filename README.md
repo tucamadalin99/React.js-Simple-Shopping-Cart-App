@@ -11,7 +11,7 @@ This app includes work with:
 
 Other libraries used: Bootstrap
 
-## Prerequisites:
+## Prerequisites for any React.js project:
 - [Node.js](https://nodejs.org/en/) (Used to start the local front-end server for the app as well as installing npm packages)
 - From the terminal, install the create-react-app package using npm
   $npm install -g create-react-app
@@ -21,3 +21,7 @@ Other libraries used: Bootstrap
 - Starting the react.js app
   $npm start
   
+## If you wish to start this app
+- Clone the repository
+- Open up the terminal and type: $npm install
+- Then: $npm start 

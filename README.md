@@ -10,3 +10,14 @@ This app includes work with:
 - Lifecycle Hooks for later development
 
 Other libraries used: Bootstrap
+
+## Prerequisites:
+- [Node.js](https://nodejs.org/en/) (Used to start the local front-end server for the app as well as installing npm packages)
+- From the terminal, install the create-react-app package using npm
+  $npm install -g create-react-app
+- Initializing a react project:
+  Using the terminal type:
+  $create-react-app app-name
+- Starting the react.js app
+  $npm start
+  

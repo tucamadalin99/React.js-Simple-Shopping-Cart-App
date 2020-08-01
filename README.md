@@ -8,3 +8,5 @@ This app includes work with:
 - Componenets
 - Functional Components
 - Lifecycle Hooks for later development
+
+Other libraries: Bootstrap

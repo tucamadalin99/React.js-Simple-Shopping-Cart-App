@@ -5,7 +5,7 @@ This app includes work with:
 - Props
 - Raising and Handling Events
 - Lifting the State
-- Componenets
+- Components
 - Functional Components
 - Lifecycle Hooks for later development
 

@@ -9,4 +9,4 @@ This app includes work with:
 - Functional Components
 - Lifecycle Hooks for later development
 
-Other libraries: Bootstrap
+Other libraries used: Bootstrap
